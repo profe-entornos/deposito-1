@@ -104,4 +104,8 @@ public class CCuenta {
         setSaldo(getSaldo() + cantidad);
     }
     
+    public void vaciar() {
+        this.saldo = 0;
+    }
+    
 }
