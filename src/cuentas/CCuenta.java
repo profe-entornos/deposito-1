@@ -8,6 +8,7 @@ package cuentas;
 /**
  *
  * @author Adrian Cristian Beldean
+ * Visto
  */
 public class CCuenta {
     
